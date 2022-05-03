@@ -37,6 +37,7 @@ main{
   flex-direction: column;
   padding: 2rem;
   width: 24rem;
+  height: 35rem;
   border-radius: 16px;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
@@ -107,7 +108,7 @@ main{
 }
 
 .btn-submit button:hover{
-  background-color: hsla(21, 100%, 56%, 1);
+  background-color: wheat;
 }
 
 .form-container .form .register{
